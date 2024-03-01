@@ -72,6 +72,3 @@ def adjust_curl_params(request_obj, offset, limit, category):
 
     return request_obj.replace("&offset=20", "".join(["&offset=", offset])).replace("&limit=20", "".join(
         ["&limit=", limit])).replace("", ""), category
-
-
-#print(get_tasteio())
