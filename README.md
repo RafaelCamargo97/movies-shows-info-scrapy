@@ -126,7 +126,7 @@ category page on Tasteio's website.
 ] 
 ```
 
-## Curl conversion to Request object
+## Curl to Request Object Conversion
 The  `curl_manager.py` file provides functions to handle `curl` operations:
 
 - `clean_curl_cmd` prepares a `curl` command for conversion by the `uncurl` library.
