@@ -120,7 +120,7 @@ category page on Tasteio's website.
 ``` json
 [
 {"name": "Through My Window 3: Looking at You", 
-"description": ""After the events of the summer [...]",
+"description": "After the events of the summer [...]",
 "cast": "Clara Galle, Julio Peña, Natalia Azahara,[...]"},
 //... (other movies and shows)
 ] 
